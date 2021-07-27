@@ -1,0 +1,8 @@
+This is My own Application code:
+
+  Author:SOWMIYA
+ 
+ 1. profile page code
+ 2. Login credentials code
+ 3. Reporting person code
+ 4. Attachments file(Image,Vedio,Audio) code
